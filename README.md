@@ -11,7 +11,7 @@ Version implemented using multidimensional vector and HTML5 canvas to rendering.
 ## How to implement
 
 <p align="center">
-  <a href="https://youtu.be/HCjDjsHPOco" target="_blank">
+  <a href="https://youtu.be/HCjDjsHPOco">
     <img src="http://img.youtube.com/vi/HCjDjsHPOco/0.jpg" alt="How to implement" />
   </a>
 </p>
