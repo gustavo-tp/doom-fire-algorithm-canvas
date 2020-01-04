@@ -5,15 +5,13 @@ Version implemented using multidimensional vector and HTML5 canvas to rendering.
 ## Preview
 
 <p align="center">
-  <a href="#">
-    <img src="https://github.com/gustavo-tp/doom-fire-algorithm/blob/master/preview.gif" alt="Preview" />
-  </a>
+  <img src="https://github.com/gustavo-tp/doom-fire-algorithm/blob/master/preview.gif" alt="Preview" />
 </p>
 
 ## How to implement
 
 <p align="center">
-  <a href="https://youtu.be/HCjDjsHPOco">
+  <a href="https://youtu.be/HCjDjsHPOco" target="_blank">
     <img src="http://img.youtube.com/vi/HCjDjsHPOco/0.jpg" alt="How to implement" />
   </a>
 </p>
