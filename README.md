@@ -5,7 +5,7 @@ Version implemented using multidimensional vector and HTML5 canvas to rendering.
 ## Preview
 
 <p align="center">
-  <img src="https://github.com/gustavo-tp/doom-fire-algorithm/blob/master/preview.gif" alt="Preview" />
+  <img src="https://github.com/gustavo-tp/doom-fire-algorithm-canvas/blob/master/preview.gif" alt="Preview" />
 </p>
 
 ## How to implement
